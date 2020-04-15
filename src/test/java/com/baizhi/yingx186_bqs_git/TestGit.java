@@ -5,7 +5,7 @@ public class TestGit {
         System.out.println("===");
         System.out.println("---");
         int a =10;
-        ing b = 20;
-        
+        int b = 20;
+        System.out.println("idea 代码");
     }
 }
