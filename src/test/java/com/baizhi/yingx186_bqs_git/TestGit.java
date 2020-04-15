@@ -8,5 +8,6 @@ public class TestGit {
         int b = 20;
         System.out.println("idea 代码");
         System.out.println("最后的代码");
+System.out.println("github 最后的代码");
     }
 }
